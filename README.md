@@ -2,3 +2,4 @@
 
 This is a practice project to learn Git and GitHub.
 I'm adding another line to see how commits work.
+This line is part of the new feature!
